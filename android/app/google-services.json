@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756255352715",
+    "project_id": "emergex-8f432",
+    "storage_bucket": "emergex-8f432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756255352715:android:973d584c2dfd3f1297718e",
+        "android_client_info": {
+          "package_name": "com.example.emergex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756255352715-aibmr0br4qlujgehtjcnmfptl0omjn7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_1CFfanUd1u_6UCCrZ2jAqPrKN5ccLkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756255352715-aibmr0br4qlujgehtjcnmfptl0omjn7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
