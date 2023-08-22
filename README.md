@@ -1,6 +1,6 @@
 # emergex
 
-A new Flutter project.
+This is a repo for a Flutter project for the college event
 
 ## Getting Started
 
