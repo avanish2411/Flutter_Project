@@ -1,6 +1,6 @@
 # emergex
 
-This is a repo for a Flutter project for the college event
+This is a repo for a Flutter project for the college event.
 
 ## Getting Started
 
