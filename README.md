@@ -1,4 +1,4 @@
-# emergex
+# Emergex
 
 This is a repo for a Flutter project for the college event.
 
